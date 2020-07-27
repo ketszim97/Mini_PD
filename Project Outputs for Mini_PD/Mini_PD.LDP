@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\Documents\PCB Design\Mini_PD\Mini_PD\Mini_PD.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mini_pd-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mini_pd-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Mini_PD.PrjPcb]
+   Generated File[Mini_PD-RoundHoles.TXT]
+   Generated File[Mini_PD-SlotHoles.TXT]
+   Generated File[Mini_PD.LDP]
+   Generated File[Mini_PD.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:09:31 PM On 2020-07-26
